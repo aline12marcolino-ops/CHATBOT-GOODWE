@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "solicitacao": "Acabei de plugar meu carro aqui no shopping. Vou assistir a um filme de 2 horas e preciso sair com pelo menos 75% de bateria. O que você sugere?",
+    "tipo_esperado": "duvida",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": ["GoodWe", "2 horas", "estacionamento", "recarga"]
+  },
+  {
+    "id": 2,
+    "solicitacao": "Esse negócio de tirar energia do meu carro para mandar pro shopping não vai estragar a minha bateria?",
+    "tipo_esperado": "duvida",
+    "urgencia_esperada": "media",
+    "palavras_chave": ["Battery Health AI", "saúde", "seguro", "garantia"]
+  },
+  {
+    "id": 3,
+    "solicitacao": "Qualquer carregador de tomada de condomínio ou de parede faz isso que você está propondo?",
+    "tipo_esperado": "duvida",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": ["bidirecional", "V2G", "ISO 15118", "OCPP 2.0.1"]
+  },
+  {
+    "id": 4,
+    "solicitacao": "Eu vou receber em dinheiro na minha conta por essa energia que estou cedendo pro shopping?",
+    "tipo_esperado": "duvida",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": ["ANEEL", "créditos", "recargas", "vouchers"]
+  },
+  {
+    "id": 5,
+    "solicitacao": "Minha bateria está em 20% e preciso ir embora em 40 minutos para uma emergência, não quero participar de usina virtual hoje.",
+    "tipo_esperado": "suporte",
+    "urgencia_esperada": "alta",
+    "palavras_chave": ["urgência", "Carregamento Rápido", "potência máxima", "40 minutos"]
+  }
+]

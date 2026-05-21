@@ -1,0 +1,6 @@
+langchain
+ollama
+python-dotenv
+pandas
+matplotlib
+requests

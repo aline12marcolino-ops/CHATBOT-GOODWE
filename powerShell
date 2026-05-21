@@ -1,0 +1,10 @@
+New-Item README.md
+New-Item requirements.txt
+
+New-Item src/main.py
+New-Item src/llm_client.py
+New-Item src/chatbot.py
+New-Item src/prompt_builder.py
+New-Item prompts/system_prompt.txt
+
+New-Item data/test_questions.json

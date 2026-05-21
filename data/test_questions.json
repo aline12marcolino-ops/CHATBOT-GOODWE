@@ -1,0 +1,30 @@
+[
+
+
+  {
+    "pergunta": "Acabei de plugar meu carro aqui no shopping. Vou assistir a um filme de 2 horas e preciso sair com pelo menos 75% de bateria. O que você sugere?",
+    "resposta_ideal": "Perfeito! Já identifiquei seu veículo conectado ao carregador GoodWe. Como você vai ficar 2 horas, temos tempo de sobra. O pico de consumo do shopping está alto agora. Se você me permitir usar 10% da sua bateria nos próximos 30 minutos para aliviar a rede, eu te garanto uma recarga total até o fim do filme e você ainda ganha a isenção do estacionamento de hoje."
+  },
+  {
+    "pergunta": "Esse negócio de tirar energia do meu carro para mandar pro shopping não vai estragar a minha bateria?",
+    "resposta_ideal": "Essa é uma excelente preocupação! O nosso sistema conta com o 'Battery Health AI', um módulo que monitora a saúde da sua bateria em tempo real. Nós calculamos o desgaste microestrutural exato nos eletrodos e só realizamos essa operação se for totalmente seguro. Além disso, o sistema bloqueia o envio caso sua bateria caia do limite seguro, protegendo sua garantia. Pode ficar tranquilo."
+  },
+
+
+  {
+    "pergunta":"Qualquer carregador de tomada de condomínio ou de parede faz isso que você está propondo?",
+    "resposta_ideal": "Não, os carregadores convencionais de parede (Wallbox comuns) não suportam essa tecnologia. Essa operação bidirecional (V2G) exige um hardware robusto com inversores internos avançados da GoodWe e total compatibilidade com os protocolos mundiais ISO 15118 e OCPP 2.0.1, que é exatamente o que temos instalado aqui neste hub comercial."
+  },
+
+
+  {
+    "pergunta": "Eu vou receber em dinheiro na minha conta por essa energia que estou cedendo pro shopping?",
+    "resposta_ideal": "No momento, devido às regras atuais da ANEEL no Brasil para consumidores de varejo, não enviamos dinheiro direto para sua conta bancária. No entanto, convertemos esse valor em benefícios imediatos: você recebe créditos para suas próximas recargas na rede GoodWe ou vouchers de desconto para usar aqui mesmo nas lojas e praça de alimentação do shopping!"
+  },
+
+
+  {
+    "pergunta": "Minha bateria está em 20% e preciso ir embora em 40 minutos para uma emergência, não quero participar de usina virtual hoje.",
+    "resposta_ideal": "Entendido perfeitamente. Prioridade total para a sua urgência. Desativei qualquer interação de fluxo reverso (V2G) e ativei o modo de Carregamento Rápido Unidirecional. Vou direcionar a potência máxima permitida pelo carregador para que você saia daqui com a maior carga possível nesses 40 minutos. Boa viagem!"
+  }
+]
