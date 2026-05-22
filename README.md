@@ -39,7 +39,8 @@ Entrada do usuário, processamento inteligente e geração de resposta contextua
 
 
 ### Fluxograma
-<img width="961" height="344" alt="image" src="https://github.com/user-attachments/assets/8517cadd-d586-4f8a-9c9a-e32653ef745f" />
+<img width="622" height="1251" alt="WhatsApp Image 2026-05-22 at 13 34 19" src="https://github.com/user-attachments/assets/5f8aa563-8914-40f9-aae3-f799462ef429" />
+
 
 ## 5. Instruções
 COMPILAR
