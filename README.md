@@ -39,24 +39,7 @@ Entrada do usuário, processamento inteligente e geração de resposta contextua
 
 
 ### Fluxograma
-
-Usuário  
-↓  
-Interface do Chatbot  
-↓  
-Recebimento da Pergunta  
-↓  
-Injeção do Contexto GoodWe  
-↓  
-LangChain  
-↓  
-Modelo LLM (Llama 3.2 / Ollama Web)  
-↓  
-Processamento Inteligente  
-↓  
-Geração da Resposta  
-↓  
-Usuário
+<img width="961" height="344" alt="image" src="https://github.com/user-attachments/assets/8517cadd-d586-4f8a-9c9a-e32653ef745f" />
 
 ## 5. Instruções
 COMPILAR
