@@ -61,6 +61,6 @@ Usuário
 ## 5. Instruções
 COMPILAR
 ```bash
-pip install ollama python-dotenv requests ##instaar biblioteca
+pip install ollama python-dotenv requests ##instar biblioteca
 
 python src/main.py
