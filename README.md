@@ -57,3 +57,10 @@ Processamento Inteligente
 Geração da Resposta  
 ↓  
 Usuário
+
+## 5. Instruções
+COMPILAR
+```bash
+pip install ollama python-dotenv requests ##instaar biblioteca
+
+python src/main.py
